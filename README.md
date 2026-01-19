@@ -9,7 +9,7 @@ A simple OS made with OSDev, just for hobby
 ### i686-elf-as 
 ### i686-elf-ld  
 
-# Just run 
+## Just run 
 ``
 make
 `` 
