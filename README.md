@@ -8,3 +8,8 @@ A simple OS made with OSDev, just for hobby
 ## And binutils:
 ### i686-elf-as 
 ### i686-elf-ld  
+
+# Just run 
+``
+make
+`
